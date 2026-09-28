@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta charset='utf-8'><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1280px;height:769px;overflow:hidden;font-family:'Segoe UI',system-ui,sans-serif;background:#F4F5F7;color:#1F2A30}
+.top{height:210px;background:#2F3E46;color:#fff;padding:44px 56px 0}
+.top h1{font-size:64px;font-weight:800;letter-spacing:-1px;line-height:1.05}
+.top p{font-size:28px;color:#C9D1D6;margin-top:14px}
+.row{display:flex;gap:28px;align-items:center;padding:34px 44px 0}
+.card{background:#fff;border:1px solid #DADFE3;border-radius:14px;padding:18px;position:relative}
+.tag{position:absolute;top:-16px;left:18px;font-size:15px;font-weight:800;letter-spacing:2px;padding:5px 12px;border-radius:6px;color:#fff}
+.bad{background:#B4452F}.good{background:#3F7A55}
+.arrow{font-size:64px;color:#C8773A;font-weight:900}
+pre{font-family:Consolas,'Cascadia Mono',monospace;font-size:15px;line-height:1.55;white-space:pre}
+.hl{background:#F8D9D2;color:#8E2F1D;border-radius:3px}
+.muted{color:#6B7780}
+.shot{display:block;border-radius:8px;border:1px solid #DADFE3}
+.note{position:absolute;bottom:14px;right:18px;font-size:13px;color:#6B7780}
+.caption{padding:26px 56px 0;font-size:26px;line-height:1.35}
+.caption b{color:#C8773A}
+.grid{border-collapse:collapse;font-size:15px}
+.grid td,.grid th{border:1px solid #D5DADF;padding:5px 10px;text-align:left}
+.grid th{background:#EEF1F3;color:#6B7780;font-weight:600}
+.stat{font-size:22px;line-height:1.9}
+.stat b{display:inline-block;min-width:110px;text-align:right;margin-right:14px;color:#2F3E46}
+.code{background:#1F2A30;color:#E6EDF3;border-radius:12px;padding:20px 24px}
+.code .k{color:#E0A36B}.code .c{color:#8FA3AE}.code .s{color:#A8D0A0}
+</style></head><body>
+<div class=top style='height:150px'><h1 style='font-size:46px'>One menu click imports &amp; cleans</h1>
+<p style='font-size:24px'>Apps Script sample &middot; readable code you own</p></div>
+<pre class=code style='margin:22px 56px 0;font-size:15px;line-height:1.5'><span class=c>/** Reads every CSV in the export folder, drops blank and duplicate lines, writes one clean table. */</span>
+<span class=k>function</span> importExports() {
+  <span class=k>const</span> sheet = book.getSheetByName(<span class=s>'Clean'</span>) || book.insertSheet(<span class=s>'Clean'</span>);
+  <span class=k>const</span> files = DriveApp.getFolderById(folderId).getFilesByType(MimeType.CSV);
+  <span class=k>while</span> (files.hasNext()) {
+    <span class=k>const</span> [head, ...lines] = Utilities.parseCsv(files.next().getBlob().getDataAsString(<span class=s>'UTF-8'</span>));
+    <span class=k>for</span> (<span class=k>const</span> line <span class=k>of</span> lines) {
+      <span class=k>const</span> key = line.join(<span class=s>'\u0001'</span>);
+      <span class=k>if</span> (!line[0] || seen.has(key)) <span class=k>continue</span>;   <span class=c>// blank or duplicate line</span>
+      seen.add(key);
+      rows.push(line.map((v) =&gt; String(v).replace(<span class=s>/\s+/g</span>, <span class=s>' '</span>).trim()));
+    }
+  }
+  <span class=c>// setValues() needs a rectangle: pad short rows, trim long ones to one width.</span>
+  sheet.getRange(2, 1, rows.length, width).setValues(rows.map(pad));
+  book.toast(<span class=s>`${rows.length} clean rows imported`</span>, <span class=s>'Automation'</span>);
+}</pre>
+<div class=caption style='padding-top:14px;font-size:20px'><span class=muted>Excerpt &middot; full file: sheets-apps-script/Code.gs</span></div></body></html>

@@ -1,0 +1,48 @@
+<!doctype html><html><head><meta charset='utf-8'><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1280px;height:769px;overflow:hidden;font-family:'Segoe UI',system-ui,sans-serif;background:#F4F5F7;color:#1F2A30}
+.top{height:210px;background:#2F3E46;color:#fff;padding:44px 56px 0}
+.top h1{font-size:64px;font-weight:800;letter-spacing:-1px;line-height:1.05}
+.top p{font-size:28px;color:#C9D1D6;margin-top:14px}
+.row{display:flex;gap:28px;align-items:center;padding:34px 44px 0}
+.card{background:#fff;border:1px solid #DADFE3;border-radius:14px;padding:18px;position:relative}
+.tag{position:absolute;top:-16px;left:18px;font-size:15px;font-weight:800;letter-spacing:2px;padding:5px 12px;border-radius:6px;color:#fff}
+.bad{background:#B4452F}.good{background:#3F7A55}
+.arrow{font-size:64px;color:#C8773A;font-weight:900}
+pre{font-family:Consolas,'Cascadia Mono',monospace;font-size:15px;line-height:1.55;white-space:pre}
+.hl{background:#F8D9D2;color:#8E2F1D;border-radius:3px}
+.muted{color:#6B7780}
+.shot{display:block;border-radius:8px;border:1px solid #DADFE3}
+.note{position:absolute;bottom:14px;right:18px;font-size:13px;color:#6B7780}
+.caption{padding:26px 56px 0;font-size:26px;line-height:1.35}
+.caption b{color:#C8773A}
+.grid{border-collapse:collapse;font-size:15px}
+.grid td,.grid th{border:1px solid #D5DADF;padding:5px 10px;text-align:left}
+.grid th{background:#EEF1F3;color:#6B7780;font-weight:600}
+.stat{font-size:22px;line-height:1.9}
+.stat b{display:inline-block;min-width:110px;text-align:right;margin-right:14px;color:#2F3E46}
+.code{background:#1F2A30;color:#E6EDF3;border-radius:12px;padding:20px 24px}
+.code .k{color:#E0A36B}.code .c{color:#8FA3AE}.code .s{color:#A8D0A0}
+</style></head><body>
+<div class=top><h1>Google Sheets Automation</h1><p>Formulas &middot; Apps Script &middot; dashboards</p></div>
+<div class=row>
+  <div class=card style='width:520px;height:470px'><span class='tag bad'>BEFORE</span><div style='margin-top:16px'><table class=grid><tr><th></th><th>A</th><th>B</th><th>C</th></tr>
+<tr><th>1</th><td>Order</td><td>Country</td><td>Product</td></tr>
+<tr><th>2</th><td>1002</td><td><span class=hl>netherlands</span></td><td><span class=hl>&nbsp;v60 dripper </span></td></tr>
+<tr><th>3</th><td><span class=hl>1002</span></td><td><span class=hl>netherlands</span></td><td><span class=hl>&nbsp;v60 dripper </span></td></tr>
+<tr><th>4</th><td>1003</td><td><span class=hl>DE</span></td><td><span class=hl>EARL GREY 100G</span></td></tr>
+<tr><th>5</th><td></td><td></td><td></td></tr>
+<tr><th>6</th><td>1004</td><td><span class=hl>België</span></td><td>Matcha 30g</td></tr>
+<tr><th>7</th><td><span class=hl>#REF!</span></td><td></td><td></td></tr></table></div></div>
+  <div class=arrow>&rarr;</div>
+  <div class=card style='width:560px;height:470px'><span class='tag good'>AFTER</span><div style='margin-top:16px'><table class=grid><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
+<tr><th>1</th><td>Order</td><td>Country</td><td>Product</td><td>Revenue</td></tr>
+<tr><th>2</th><td>1002</td><td>Netherlands</td><td>V60 Dripper</td><td>€27.00</td></tr>
+<tr><th>3</th><td>1003</td><td>Germany</td><td>Earl Grey 100g</td><td>€7.90</td></tr>
+<tr><th>4</th><td>1004</td><td>Belgium</td><td>Matcha 30g</td><td>€21.00</td></tr></table>
+<div style='margin-top:18px;font-size:15px;color:#6B7780'>Menu <b style='color:#1F2A30'>Automation &rsaquo; Import &amp; clean exports</b></div>
+<div style='margin-top:12px;display:flex;gap:10px;align-items:flex-end;height:90px'>
+<div style='width:46px;height:60px;background:#2F3E46'></div><div style='width:46px;height:44px;background:#2F3E46'></div>
+<div style='width:46px;height:78px;background:#2F3E46'></div><div style='width:46px;height:88px;background:#C8773A'></div></div></div>
+  <div class=note>illustration</div></div>
+</div></body></html>

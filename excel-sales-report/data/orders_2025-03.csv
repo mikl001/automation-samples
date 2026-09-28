@@ -1,0 +1,413 @@
+OrderID,OrderDate,Country,Channel,Product,Category,Qty,UnitPrice,DiscountPct
+BL-2025-001422,2025-03-01,DE,Marketplace,ethiopia yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001422,2025-03-01,DE,Marketplace,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001461,2025-03-01,Deutschland,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001491,2025-03-01,germany ,Webshop,STONEWARE MUG 350ML,Accessories,3,14.00,0.00
+BL-2025-001557,2025-03-01,netherlands,Marketplace,Paper Filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001597,2025-03-01,Germany,Wholesale,Ceremonial Matcha 30g,Tea,20,21.00,0.15
+BL-2025-001597,2025-03-01,Germany,Wholesale,Hand Grinder Steel Burr,Equipment,5,64.00,0.15
+BL-2025-001597,2025-03-01,Germany,Wholesale,V60 Dripper Ceramic,Equipment,30,27.00,0.15
+BL-2025-001508,2025-03-02,Deutschland,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001508,2025-03-02,Deutschland,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001516,2025-03-02,netherlands,Wholesale,Paper Filters 100pcs,Accessories,12,5.50,0.15
+BL-2025-001524,2025-03-02,belgie,Webshop,stoneware mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001524,2025-03-02,belgie,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001402,2025-03-03,FR,Marketplace,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001413,2025-03-03,Nederland,Marketplace,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001413,2025-03-03,Nederland,Marketplace,Colombia Huila 250g,Coffee Beans,6,11.00,0.00
+BL-2025-001466,2025-03-03,Netherlands,Webshop,Paper Filters 100pcs,Accessories,6,5.50,0.00
+BL-2025-001472,2025-03-03,België,Marketplace,stoneware mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001543,2025-03-03,belgie,Marketplace,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001543,2025-03-03,belgie,Marketplace,BRAZIL SANTOS 1KG,Coffee Beans,3,29.00,0.00
+BL-2025-001569,2025-03-03,België,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001569,2025-03-03,België,Marketplace,paper filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001569,2025-03-03,België,Marketplace,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001573,2025-03-03,NL,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001573,2025-03-03,NL,Webshop,HAND GRINDER STEEL BURR,Equipment,1,64.00,0.00
+BL-2025-001470,2025-03-04,netherlands,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001470,2025-03-04,netherlands,Webshop,colombia huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001527,2025-03-04,france,Marketplace,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001562,2025-03-04,DE,Marketplace,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001564,2025-03-04,BE,Webshop,JAPANESE SENCHA 100G,Tea,1,9.50,0.00
+BL-2025-001582,2025-03-04,Netherlands,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001582,2025-03-04,Netherlands,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001595,2025-03-04,netherlands,Webshop,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001595,2025-03-04,netherlands,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,2,12.50,0.00
+BL-2025-001595,2025-03-04,netherlands,Webshop,  Stoneware  Mug 350ml ,Accessories,1,14.00,0.00
+,,,,,,,,
+BL-2025-001595,2025-03-04,netherlands,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001471,2025-03-05,Belgium,Webshop,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001488,2025-03-05,Nederland,Webshop,ethiopia yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001488,2025-03-05,Nederland,Webshop,Earl Grey Supreme 100g  ,Tea,1,7.90,0.00
+BL-2025-001578,2025-03-05,france,Marketplace,Brazil Santos 1kg,Coffee Beans,3,29.00,0.00
+BL-2025-001578,2025-03-05,france,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001578,2025-03-05,france,Marketplace,Japanese Sencha 100g,Tea,3,9.50,0.00
+BL-2025-001578,2025-03-05,france,Marketplace,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001585,2025-03-05,Germany,Marketplace,House Espresso Blend 500g,Coffee Beans,6,18.50,0.00
+BL-2025-001441,2025-03-06, NL,Webshop,Earl Grey Supreme 100g,Tea,3,7.90,0.00
+BL-2025-001460,2025-03-06,france,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001460,2025-03-06,france,Webshop,  Ethiopia  Yirgacheffe 250g ,Coffee Beans,6,12.50,0.00
+BL-2025-001546,2025-03-06,BE,Webshop,Colombia Huila 250g,Coffee Beans,3,11.00,0.00
+BL-2025-001549,2025-03-06,belgie,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001549,2025-03-06,belgie,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001549,2025-03-06,belgie,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001415,2025-03-07,Netherlands,Webshop,CEREMONIAL MATCHA 30G,Tea,1,21.00,0.00
+BL-2025-001426,2025-03-07,Nederland,Marketplace,japanese sencha 100g,Tea,3,9.50,0.00
+BL-2025-001454,2025-03-07,BE,Marketplace,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001454,2025-03-07,BE,Marketplace,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001483,2025-03-07, NL,Marketplace,STONEWARE MUG 350ML,Accessories,2,14.00,0.00
+BL-2025-001483,2025-03-07, NL,Marketplace,hand grinder steel burr,Equipment,1,64.00,0.00
+BL-2025-001542,2025-03-07,Nederland,Webshop,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001542,2025-03-07,Nederland,Webshop,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001414,2025-03-08,germany ,Wholesale,COLOMBIA HUILA 250G,Coffee Beans,5,11.00,0.15
+BL-2025-001414,2025-03-08,germany ,Wholesale,Japanese Sencha 100g,Tea,10,9.50,0.15
+BL-2025-001419,2025-03-08,France,Webshop,stoneware mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001429,2025-03-08,Netherlands,Marketplace,Hand Grinder Steel Burr,Equipment,2,64.00,0.00
+BL-2025-001492,2025-03-08,france,Marketplace,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001492,2025-03-08,france,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001494,2025-03-08, NL,Webshop,  Ceremonial  Matcha 30g ,Tea,1,21.00,0.00
+BL-2025-001494,2025-03-08, NL,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001494,2025-03-08, NL,Webshop,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001540,2025-03-08,NL,Webshop,  Earl  Grey Supreme 100g ,Tea,2,7.90,0.00
+BL-2025-001540,2025-03-08,NL,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001551,2025-03-08,Nederland,Webshop,Japanese Sencha 100g,Tea,2,9.50,0.00
+BL-2025-001551,2025-03-08,Nederland,Webshop,  Colombia  Huila 250g ,Coffee Beans,3,11.00,0.00
+BL-2025-001406,2025-03-09,germany ,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001406,2025-03-09,germany ,Webshop,COLOMBIA HUILA 250G,Coffee Beans,2,11.00,0.00
+BL-2025-001406,2025-03-09,germany ,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+,,,,,,,,
+BL-2025-001435,2025-03-09,netherlands,Marketplace,brazil santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001451,2025-03-09,Nederland,Wholesale,stoneware mug 350ml,Accessories,24,14.00,0.15
+BL-2025-001451,2025-03-09,Nederland,Wholesale,Brazil Santos 1kg,Coffee Beans,24,29.00,0.15
+BL-2025-001451,2025-03-09,Nederland,Wholesale,House Espresso Blend 500g,Coffee Beans,10,18.50,0.15
+BL-2025-001453,2025-03-09,NL,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001507,2025-03-09,België,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001507,2025-03-09,België,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001507,2025-03-09,België,Webshop,gooseneck kettle 1l,Equipment,2,49.00,0.00
+BL-2025-001520,2025-03-09,france,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001553,2025-03-09,Netherlands,Marketplace,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001553,2025-03-09,Netherlands,Marketplace,Gooseneck Kettle 1L  ,Equipment,1,49.00,0.00
+BL-2025-001555,2025-03-09,BE,Webshop,brazil santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001401,2025-03-10,Belgium,Wholesale,COLOMBIA HUILA 250G,Coffee Beans,30,11.00,0.15
+BL-2025-001417,2025-03-10,België,Wholesale,V60 Dripper Ceramic,Equipment,5,27.00,0.15
+BL-2025-001418,2025-03-10,NL,Webshop,brazil santos 1kg,Coffee Beans,2,29.00,0.00
+BL-2025-001463,2025-03-10,DE,Webshop,BRAZIL SANTOS 1KG,Coffee Beans,3,29.00,0.00
+BL-2025-001474,2025-03-10,netherlands,Webshop,paper filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001474,2025-03-10,netherlands,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001474,2025-03-10,netherlands,Webshop,Hand Grinder Steel Burr,Equipment,2,64.00,0.00
+BL-2025-001480,2025-03-10,France,Webshop,  V60  Dripper Ceramic ,Equipment,3,27.00,0.00
+BL-2025-001499,2025-03-10,Nederland,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001499,2025-03-10,Nederland,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001514,2025-03-10,BE,Webshop,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001514,2025-03-10,BE,Webshop,House Espresso Blend 500g  ,Coffee Beans,1,18.50,0.00
+BL-2025-001514,2025-03-10,BE,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001514,2025-03-10,BE,Webshop,BRAZIL SANTOS 1KG,Coffee Beans,2,29.00,0.00
+BL-2025-001565,2025-03-10, NL,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001565,2025-03-10, NL,Webshop,EARL GREY SUPREME 100G,Tea,1,7.90,0.00
+BL-2025-001565,2025-03-10, NL,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001565,2025-03-10, NL,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001570,2025-03-10,NL,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001570,2025-03-10,NL,Marketplace,Colombia Huila 250g,Coffee Beans,3,11.00,0.00
+BL-2025-001570,2025-03-10,NL,Marketplace,Japanese Sencha 100g,Tea,2,9.50,0.00
+BL-2025-001420,2025-03-11,BE,Webshop,V60 Dripper Ceramic,Equipment,3,27.00,0.00
+BL-2025-001428,2025-03-11,netherlands,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001428,2025-03-11,netherlands,Marketplace,  Earl  Grey Supreme 100g ,Tea,2,7.90,0.00
+BL-2025-001428,2025-03-11,netherlands,Marketplace,PAPER FILTERS 100PCS,Accessories,3,5.50,0.00
+BL-2025-001428,2025-03-11,netherlands,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001439,2025-03-11,België,Webshop,house espresso blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001439,2025-03-11,België,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001439,2025-03-11,België,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001465,2025-03-11,DE,Webshop,ceremonial matcha 30g,Tea,1,21.00,0.00
+BL-2025-001465,2025-03-11,DE,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001475,2025-03-11,France,Marketplace,GOOSENECK KETTLE 1L,Equipment,2,49.00,0.00
+BL-2025-001475,2025-03-11,France,Marketplace,HOUSE ESPRESSO BLEND 500G,Coffee Beans,1,18.50,0.00
+BL-2025-001477,2025-03-11,Germany,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001477,2025-03-11,Germany,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001477,2025-03-11,Germany,Webshop,ceremonial matcha 30g,Tea,1,21.00,0.00
+BL-2025-001529,2025-03-11, NL,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001529,2025-03-11, NL,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001456,2025-03-12,Netherlands,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001458,2025-03-12,Belgium,Webshop,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001458,2025-03-12,Belgium,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001528,2025-03-12,Belgium,Webshop,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001532,2025-03-12,NL,Marketplace,brazil santos 1kg,Coffee Beans,6,29.00,0.00
+BL-2025-001532,2025-03-12,NL,Marketplace,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001533,2025-03-12,france,Wholesale,Japanese Sencha 100g,Tea,10,9.50,0.15
+BL-2025-001533,2025-03-12,france,Wholesale,Colombia Huila 250g,Coffee Beans,30,11.00,0.15
+BL-2025-001533,2025-03-12,france,Wholesale,Hand Grinder Steel Burr,Equipment,12,64.00,0.15
+BL-2025-001580,2025-03-12,FR,Webshop,Earl Grey Supreme 100g,Tea,3,7.90,0.00
+BL-2025-001580,2025-03-12,FR,Webshop,Hand Grinder Steel Burr,Equipment,2,64.00,0.00
+BL-2025-001580,2025-03-12,FR,Webshop,Colombia Huila 250g,Coffee Beans,3,11.00,0.00
+BL-2025-001580,2025-03-12,FR,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001584,2025-03-12,Netherlands,Marketplace,  Japanese  Sencha 100g ,Tea,1,9.50,0.00
+BL-2025-001584,2025-03-12,Netherlands,Marketplace,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001584,2025-03-12,Netherlands,Marketplace,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001594,2025-03-12,Nederland,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001594,2025-03-12,Nederland,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001599,2025-03-12, NL,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001599,2025-03-12, NL,Webshop,Japanese Sencha 100g,Tea,6,9.50,0.00
+BL-2025-001405,2025-03-13,netherlands,Marketplace,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001405,2025-03-13,netherlands,Marketplace,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001405,2025-03-13,netherlands,Marketplace,gooseneck kettle 1l,Equipment,6,49.00,0.00
+BL-2025-001405,2025-03-13,netherlands,Marketplace,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001409,2025-03-13, NL,Webshop,ethiopia yirgacheffe 250g,Coffee Beans,3,12.50,0.00
+BL-2025-001409,2025-03-13, NL,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001421,2025-03-13,belgie,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001421,2025-03-13,belgie,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001448,2025-03-13,BE,Marketplace,Brazil Santos 1kg,Coffee Beans,6,29.00,0.00
+BL-2025-001517,2025-03-13,NL,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001554,2025-03-13,france,Webshop,Japanese Sencha 100g,Tea,6,9.50,0.00
+BL-2025-001554,2025-03-13,france,Webshop,Paper Filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001559,2025-03-13,france,Webshop,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001571,2025-03-13,Netherlands,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001431,2025-03-14,Belgium,Webshop,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001444,2025-03-14,Deutschland,Webshop,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001444,2025-03-14,Deutschland,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001467,2025-03-14,NL,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001467,2025-03-14,NL,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001504,2025-03-14,FR,Marketplace,brazil santos 1kg,Coffee Beans,2,29.00,0.00
+BL-2025-001509,2025-03-14,België,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001530,2025-03-14,Netherlands,Webshop,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001544,2025-03-14,DE,Webshop,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001544,2025-03-14,DE,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001548,2025-03-14,Germany,Marketplace,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001548,2025-03-14,Germany,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001548,2025-03-14,Germany,Marketplace,stoneware mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001548,2025-03-14,Germany,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001548,2025-03-14,Germany,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001575,2025-03-14,netherlands,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001575,2025-03-14,netherlands,Webshop,  Gooseneck  Kettle 1L ,Equipment,1,49.00,0.00
+BL-2025-001575,2025-03-14,netherlands,Webshop,JAPANESE SENCHA 100G,Tea,1,9.50,0.00
+BL-2025-001575,2025-03-14,netherlands,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001591,2025-03-14,belgie,Webshop,Paper Filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001591,2025-03-14,belgie,Webshop,  Colombia  Huila 250g ,Coffee Beans,3,11.00,0.00
+BL-2025-001605,2025-03-14,Nederland,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001605,2025-03-14,Nederland,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001430,2025-03-15,NL,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001556,2025-03-15,france,Webshop,  Earl  Grey Supreme 100g ,Tea,1,7.90,0.00
+BL-2025-001556,2025-03-15,france,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001556,2025-03-15,france,Webshop,Colombia Huila 250g,Coffee Beans,3,11.00,0.00
+BL-2025-001556,2025-03-15,france,Webshop,BRAZIL SANTOS 1KG,Coffee Beans,1,29.00,0.00
+BL-2025-001590,2025-03-15,BE,Webshop,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001601,2025-03-15,France,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001436,2025-03-16,Belgium,Wholesale,Ceremonial Matcha 30g,Tea,36,21.00,0.15
+BL-2025-001468,2025-03-16, NL,Webshop,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001468,2025-03-16, NL,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001468,2025-03-16, NL,Webshop,House Espresso Blend 500g,Coffee Beans,3,18.50,0.00
+BL-2025-001484,2025-03-16,Nederland,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001484,2025-03-16,Nederland,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001497,2025-03-16,Netherlands,Marketplace,Ethiopia Yirgacheffe 250g,Coffee Beans,2,12.50,0.00
+BL-2025-001497,2025-03-16,Netherlands,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001497,2025-03-16,Netherlands,Marketplace,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001502,2025-03-16,belgie,Marketplace,Ethiopia Yirgacheffe 250g  ,Coffee Beans,1,12.50,0.00
+BL-2025-001502,2025-03-16,belgie,Marketplace,Paper Filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001502,2025-03-16,belgie,Marketplace,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001502,2025-03-16,belgie,Marketplace,V60 DRIPPER CERAMIC,Equipment,6,27.00,0.00
+BL-2025-001446,2025-03-17,Deutschland,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001446,2025-03-17,Deutschland,Webshop,Earl Grey Supreme 100g,Tea,3,7.90,0.00
+BL-2025-001446,2025-03-17,Deutschland,Webshop,GOOSENECK KETTLE 1L,Equipment,1,49.00,0.00
+BL-2025-001446,2025-03-17,Deutschland,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001486,2025-03-17,belgie,Marketplace,  Ceremonial  Matcha 30g ,Tea,1,21.00,0.00
+BL-2025-001547,2025-03-17,België,Marketplace,brazil santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001547,2025-03-17,België,Marketplace,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001579,2025-03-17,NL,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001579,2025-03-17,NL,Webshop,STONEWARE MUG 350ML,Accessories,1,14.00,0.00
+BL-2025-001457,2025-03-18, NL,Webshop,Hand Grinder Steel Burr,Equipment,2,64.00,0.00
+BL-2025-001515,2025-03-18,DE,Webshop,Japanese Sencha 100g,Tea,2,9.50,0.00
+BL-2025-001522,2025-03-18,Netherlands,Marketplace,Colombia Huila 250g,Coffee Beans,3,11.00,0.00
+BL-2025-001522,2025-03-18,Netherlands,Marketplace,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001523,2025-03-18,Germany,Webshop,JAPANESE SENCHA 100G,Tea,1,9.50,0.00
+BL-2025-001523,2025-03-18,Germany,Webshop,  Colombia  Huila 250g ,Coffee Beans,1,11.00,0.00
+BL-2025-001523,2025-03-18,Germany,Webshop,  Earl  Grey Supreme 100g ,Tea,6,7.90,0.00
+BL-2025-001535,2025-03-18,France,Webshop,Hand Grinder Steel Burr,Equipment,3,64.00,0.00
+BL-2025-001535,2025-03-18,France,Webshop,Hand Grinder Steel Burr,Equipment,3,64.00,0.00
+BL-2025-001538,2025-03-18,Deutschland,Webshop,V60 Dripper Ceramic,Equipment,6,27.00,0.00
+BL-2025-001538,2025-03-18,Deutschland,Webshop,Ceremonial Matcha 30g  ,Tea,1,21.00,0.00
+BL-2025-001581,2025-03-18, NL,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001581,2025-03-18, NL,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001479,2025-03-19,Nederland,Wholesale,ethiopia yirgacheffe 250g,Coffee Beans,5,12.50,0.15
+BL-2025-001487,2025-03-19,Germany,Webshop,  Hand  Grinder Steel Burr ,Equipment,1,64.00,0.00
+BL-2025-001496,2025-03-19,NL,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001526,2025-03-19,belgie,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001526,2025-03-19,belgie,Webshop,ceremonial matcha 30g,Tea,1,21.00,0.00
+BL-2025-001560,2025-03-19,Nederland,Marketplace,paper filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001568,2025-03-19,netherlands,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001572,2025-03-19,België,Webshop,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001576,2025-03-19,FR,Webshop,Gooseneck Kettle 1L,Equipment,2,49.00,0.00
+BL-2025-001576,2025-03-19,FR,Webshop,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001576,2025-03-19,FR,Webshop,Colombia Huila 250g,Coffee Beans,6,11.00,0.00
+BL-2025-001586,2025-03-19, NL,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001586,2025-03-19, NL,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001586,2025-03-19, NL,Marketplace,Colombia Huila 250g  ,Coffee Beans,1,11.00,0.00
+BL-2025-001586,2025-03-19, NL,Marketplace,Earl Grey Supreme 100g,Tea,2,7.90,0.00
+BL-2025-001464,2025-03-20, NL,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001464,2025-03-20, NL,Webshop,  Earl  Grey Supreme 100g ,Tea,1,7.90,0.00
+BL-2025-001481,2025-03-20,Netherlands,Webshop,  Earl  Grey Supreme 100g ,Tea,6,7.90,0.00
+BL-2025-001482,2025-03-20,NL,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001519,2025-03-20, NL,Webshop,stoneware mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001545,2025-03-20,België,Webshop,Gooseneck Kettle 1L,Equipment,3,49.00,0.00
+BL-2025-001550,2025-03-20,Nederland,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001550,2025-03-20,Nederland,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001550,2025-03-20,Nederland,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001550,2025-03-20,Nederland,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001550,2025-03-20,Nederland,Webshop,Brazil Santos 1kg  ,Coffee Beans,2,29.00,0.00
+BL-2025-001574,2025-03-20,NL,Marketplace,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001574,2025-03-20,NL,Marketplace,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001588,2025-03-20,Netherlands,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001403,2025-03-21,belgie,Marketplace,Gooseneck Kettle 1L,Equipment,6,49.00,0.00
+BL-2025-001403,2025-03-21,belgie,Marketplace,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001403,2025-03-21,belgie,Marketplace,colombia huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001424,2025-03-21,france,Marketplace,  Ethiopia  Yirgacheffe 250g ,Coffee Beans,1,12.50,0.00
+BL-2025-001437,2025-03-21,BE,Marketplace,hand grinder steel burr,Equipment,2,64.00,0.00
+BL-2025-001437,2025-03-21,BE,Marketplace,  Paper  Filters 100pcs ,Accessories,1,5.50,0.00
+BL-2025-001437,2025-03-21,BE,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001437,2025-03-21,BE,Marketplace,Gooseneck Kettle 1L  ,Equipment,1,49.00,0.00
+BL-2025-001455,2025-03-21,Belgium,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001455,2025-03-21,Belgium,Marketplace,  Brazil  Santos 1kg ,Coffee Beans,3,29.00,0.00
+BL-2025-001489,2025-03-21,france,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001489,2025-03-21,france,Webshop,Gooseneck Kettle 1L,Equipment,2,49.00,0.00
+BL-2025-001552,2025-03-21,BE,Webshop,paper filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001552,2025-03-21,BE,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001552,2025-03-21,BE,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001600,2025-03-21,Germany,Webshop,  House  Espresso Blend 500g ,Coffee Beans,2,18.50,0.00
+BL-2025-001600,2025-03-21,Germany,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001600,2025-03-21,Germany,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001600,2025-03-21,Germany,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001602,2025-03-21,Deutschland,Webshop,  Ceremonial  Matcha 30g ,Tea,1,21.00,0.00
+BL-2025-001408,2025-03-22, NL,Wholesale,Earl Grey Supreme 100g,Tea,5,7.90,0.15
+BL-2025-001412,2025-03-22,BE,Marketplace,Ceremonial Matcha 30g,Tea,2,21.00,0.00
+BL-2025-001412,2025-03-22,BE,Marketplace,  Earl  Grey Supreme 100g ,Tea,2,7.90,0.00
+BL-2025-001412,2025-03-22,BE,Marketplace,  Colombia  Huila 250g ,Coffee Beans,1,11.00,0.00
+BL-2025-001445,2025-03-22,NL,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001500,2025-03-22,france,Marketplace,Hand Grinder Steel Burr,Equipment,2,64.00,0.00
+BL-2025-001500,2025-03-22,france,Marketplace,  Ceremonial  Matcha 30g ,Tea,1,21.00,0.00
+BL-2025-001506,2025-03-22,germany ,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001506,2025-03-22,germany ,Marketplace,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001512,2025-03-22,Germany,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001534,2025-03-22,BE,Marketplace,  Japanese  Sencha 100g ,Tea,1,9.50,0.00
+BL-2025-001534,2025-03-22,BE,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001589,2025-03-22,Netherlands,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001440,2025-03-23,Deutschland,Webshop,brazil santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001440,2025-03-23,Deutschland,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001440,2025-03-23,Deutschland,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001450,2025-03-23,Nederland,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001450,2025-03-23,Nederland,Webshop,Ceremonial Matcha 30g,Tea,2,21.00,0.00
+BL-2025-001462,2025-03-23,Netherlands,Webshop,BRAZIL SANTOS 1KG,Coffee Beans,6,29.00,0.00
+BL-2025-001511,2025-03-23,netherlands,Webshop,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001513,2025-03-23,germany ,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001536,2025-03-23,DE,Webshop,House Espresso Blend 500g,Coffee Beans,3,18.50,0.00
+BL-2025-001536,2025-03-23,DE,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001539,2025-03-23,France,Marketplace,Ceremonial Matcha 30g,Tea,2,21.00,0.00
+BL-2025-001539,2025-03-23,France,Marketplace,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001539,2025-03-23,France,Marketplace,Stoneware Mug 350ml,Accessories,3,14.00,0.00
+BL-2025-001541,2025-03-23,Germany,Webshop,Paper Filters 100pcs,Accessories,3,5.50,0.00
+BL-2025-001563,2025-03-23,netherlands,Webshop,  Gooseneck  Kettle 1L ,Equipment,1,49.00,0.00
+BL-2025-001563,2025-03-23,netherlands,Webshop,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001593,2025-03-23,Netherlands,Webshop,EARL GREY SUPREME 100G,Tea,6,7.90,0.00
+BL-2025-001404,2025-03-24,Belgium,Webshop,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001404,2025-03-24,Belgium,Webshop,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001404,2025-03-24,Belgium,Webshop,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001425,2025-03-24, NL,Wholesale,V60 DRIPPER CERAMIC,Equipment,24,27.00,0.15
+BL-2025-001478,2025-03-24,belgie,Marketplace,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001490,2025-03-24,FR,Webshop,Japanese Sencha 100g,Tea,1,9.50,0.00
+BL-2025-001490,2025-03-24,FR,Webshop,Paper Filters 100pcs,Accessories,6,5.50,0.00
+BL-2025-001498,2025-03-24,België,Webshop,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001498,2025-03-24,België,Webshop,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001503,2025-03-24,België,Marketplace,Japanese Sencha 100g,Tea,3,9.50,0.00
+BL-2025-001521,2025-03-24,Belgium,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001521,2025-03-24,Belgium,Marketplace,gooseneck kettle 1l,Equipment,1,49.00,0.00
+BL-2025-001577,2025-03-24, NL,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,3,12.50,0.00
+BL-2025-001598,2025-03-24,Belgium,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001427,2025-03-25,Deutschland,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001427,2025-03-25,Deutschland,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,2,12.50,0.00
+BL-2025-001434,2025-03-25,DE,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001434,2025-03-25,DE,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001434,2025-03-25,DE,Webshop,ETHIOPIA YIRGACHEFFE 250G,Coffee Beans,1,12.50,0.00
+BL-2025-001434,2025-03-25,DE,Webshop,  Colombia  Huila 250g ,Coffee Beans,2,11.00,0.00
+BL-2025-001442,2025-03-25,NL,Webshop,STONEWARE MUG 350ML,Accessories,1,14.00,0.00
+BL-2025-001442,2025-03-25,NL,Webshop,COLOMBIA HUILA 250G,Coffee Beans,1,11.00,0.00
+BL-2025-001442,2025-03-25,NL,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001447,2025-03-25,Germany,Webshop,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001447,2025-03-25,Germany,Webshop,Earl Grey Supreme 100g,Tea,1,7.90,0.00
+BL-2025-001447,2025-03-25,Germany,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001447,2025-03-25,Germany,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,2,12.50,0.00
+BL-2025-001449,2025-03-25,germany ,Webshop,  Ethiopia  Yirgacheffe 250g ,Coffee Beans,1,12.50,0.00
+BL-2025-001449,2025-03-25,germany ,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001449,2025-03-25,germany ,Webshop,japanese sencha 100g,Tea,2,9.50,0.00
+BL-2025-001505,2025-03-25, NL,Wholesale,  Gooseneck  Kettle 1L ,Equipment,5,49.00,0.15
+BL-2025-001505,2025-03-25, NL,Wholesale,Stoneware Mug 350ml,Accessories,10,14.00,0.15
+BL-2025-001505,2025-03-25, NL,Wholesale,Ceremonial Matcha 30g,Tea,24,21.00,0.15
+BL-2025-001505,2025-03-25, NL,Wholesale,House Espresso Blend 500g,Coffee Beans,12,18.50,0.15
+BL-2025-001518,2025-03-25,België,Webshop,paper filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001518,2025-03-25,België,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001561,2025-03-25,germany ,Webshop,Japanese Sencha 100g,Tea,3,9.50,0.00
+BL-2025-001592,2025-03-25,Belgium,Marketplace,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001432,2025-03-26,netherlands,Marketplace,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001432,2025-03-26,netherlands,Marketplace,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001432,2025-03-26,netherlands,Marketplace,  Hand  Grinder Steel Burr ,Equipment,1,64.00,0.00
+BL-2025-001443,2025-03-26,Netherlands,Marketplace,V60 Dripper Ceramic,Equipment,3,27.00,0.00
+BL-2025-001443,2025-03-26,Netherlands,Marketplace,House Espresso Blend 500g,Coffee Beans,1,18.50,0.00
+BL-2025-001469,2025-03-26,netherlands,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001469,2025-03-26,netherlands,Webshop,Paper Filters 100pcs,Accessories,2,5.50,0.00
+BL-2025-001469,2025-03-26,netherlands,Webshop,  House  Espresso Blend 500g ,Coffee Beans,1,18.50,0.00
+BL-2025-001469,2025-03-26,netherlands,Webshop,  V60  Dripper Ceramic ,Equipment,3,27.00,0.00
+BL-2025-001469,2025-03-26,netherlands,Webshop,  V60  Dripper Ceramic ,Equipment,3,27.00,0.00
+BL-2025-001501,2025-03-26,Nederland,Webshop,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001501,2025-03-26,Nederland,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001510,2025-03-26,Nederland,Webshop,Brazil Santos 1kg,Coffee Beans,2,29.00,0.00
+BL-2025-001567,2025-03-26,NL,Webshop,Ceremonial Matcha 30g,Tea,1,21.00,0.00
+BL-2025-001583,2025-03-26,netherlands,Marketplace,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001604,2025-03-26,NL,Wholesale,Stoneware Mug 350ml,Accessories,10,14.00,0.15
+BL-2025-001604,2025-03-26,NL,Wholesale,Earl Grey Supreme 100g,Tea,10,7.90,0.15
+BL-2025-001416,2025-03-27,NL,Marketplace,Ethiopia Yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001452,2025-03-27,België,Webshop,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001452,2025-03-27,België,Webshop,hand grinder steel burr,Equipment,1,64.00,0.00
+BL-2025-001587,2025-03-27,NL,Wholesale,V60 Dripper Ceramic  ,Equipment,10,27.00,0.15
+BL-2025-001587,2025-03-27,NL,Wholesale,Ceremonial Matcha 30g,Tea,24,21.00,0.15
+BL-2025-001587,2025-03-27,NL,Wholesale,Gooseneck Kettle 1L,Equipment,30,49.00,0.15
+BL-2025-001587,2025-03-27,NL,Wholesale,House Espresso Blend 500g,Coffee Beans,12,18.50,0.15
+BL-2025-001407,2025-03-28,belgie,Marketplace,Earl Grey Supreme 100g,Tea,3,7.90,0.00
+BL-2025-001433,2025-03-28,netherlands,Wholesale,Hand Grinder Steel Burr,Equipment,24,64.00,0.15
+BL-2025-001433,2025-03-28,netherlands,Wholesale,House Espresso Blend 500g,Coffee Beans,12,18.50,0.15
+BL-2025-001473,2025-03-28,NL,Webshop,  Paper  Filters 100pcs ,Accessories,1,5.50,0.00
+BL-2025-001473,2025-03-28,NL,Webshop,Colombia Huila 250g  ,Coffee Beans,1,11.00,0.00
+BL-2025-001473,2025-03-28,NL,Webshop,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001473,2025-03-28,NL,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001485,2025-03-28,Netherlands,Marketplace,Brazil Santos 1kg  ,Coffee Beans,2,29.00,0.00
+BL-2025-001485,2025-03-28,Netherlands,Marketplace,Paper Filters 100pcs,Accessories,1,5.50,0.00
+BL-2025-001485,2025-03-28,Netherlands,Marketplace,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001485,2025-03-28,Netherlands,Marketplace,Colombia Huila 250g,Coffee Beans,1,11.00,0.00
+BL-2025-001485,2025-03-28,Netherlands,Marketplace,Brazil Santos 1kg  ,Coffee Beans,2,29.00,0.00
+BL-2025-001495,2025-03-29,Deutschland,Webshop,hand grinder steel burr,Equipment,2,64.00,0.00
+BL-2025-001495,2025-03-29,Deutschland,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001531,2025-03-29,Nederland,Webshop,Colombia Huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001531,2025-03-29,Nederland,Webshop,Ethiopia Yirgacheffe 250g,Coffee Beans,2,12.50,0.00
+BL-2025-001531,2025-03-29,Nederland,Webshop,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001558,2025-03-29, NL,Wholesale,STONEWARE MUG 350ML,Accessories,30,14.00,0.15
+BL-2025-001558,2025-03-29, NL,Wholesale,Gooseneck Kettle 1L,Equipment,5,49.00,0.15
+BL-2025-001411,2025-03-30,DE,Webshop,hand grinder steel burr,Equipment,2,64.00,0.00
+BL-2025-001411,2025-03-30,DE,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001438,2025-03-30,france,Marketplace,Ceremonial Matcha 30g,Tea,2,21.00,0.00
+BL-2025-001438,2025-03-30,france,Marketplace,Hand Grinder Steel Burr,Equipment,1,64.00,0.00
+BL-2025-001525,2025-03-30,France,Webshop,Brazil Santos 1kg,Coffee Beans,1,29.00,0.00
+BL-2025-001525,2025-03-30,France,Webshop,Hand Grinder Steel Burr,Equipment,6,64.00,0.00
+BL-2025-001525,2025-03-30,France,Webshop,House Espresso Blend 500g,Coffee Beans,2,18.50,0.00
+BL-2025-001537,2025-03-30,DE,Marketplace,japanese sencha 100g,Tea,1,9.50,0.00
+BL-2025-001537,2025-03-30,DE,Marketplace,ethiopia yirgacheffe 250g,Coffee Beans,1,12.50,0.00
+BL-2025-001566,2025-03-30,België,Wholesale,V60 Dripper Ceramic,Equipment,12,27.00,0.15
+BL-2025-001566,2025-03-30,België,Wholesale,Gooseneck Kettle 1L,Equipment,60,49.00,0.15
+BL-2025-001596,2025-03-30,Netherlands,Marketplace,Stoneware Mug 350ml,Accessories,1,14.00,0.00
+BL-2025-001596,2025-03-30,Netherlands,Marketplace,  Gooseneck  Kettle 1L ,Equipment,1,49.00,0.00
+BL-2025-001596,2025-03-30,Netherlands,Marketplace,Ethiopia Yirgacheffe 250g  ,Coffee Beans,1,12.50,0.00
+BL-2025-001596,2025-03-30,Netherlands,Marketplace,V60 Dripper Ceramic,Equipment,2,27.00,0.00
+BL-2025-001603,2025-03-30,Nederland,Marketplace,v60 dripper ceramic,Equipment,3,27.00,0.00
+BL-2025-001603,2025-03-30,Nederland,Marketplace,Stoneware Mug 350ml,Accessories,2,14.00,0.00
+BL-2025-001410,2025-03-31, NL,Webshop,Ceremonial Matcha 30g,Tea,2,21.00,0.00
+BL-2025-001410,2025-03-31, NL,Webshop,v60 dripper ceramic,Equipment,1,27.00,0.00
+BL-2025-001423,2025-03-31,DE,Marketplace,hand grinder steel burr,Equipment,6,64.00,0.00
+BL-2025-001459,2025-03-31,België,Marketplace,V60 DRIPPER CERAMIC,Equipment,2,27.00,0.00
+BL-2025-001459,2025-03-31,België,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001476,2025-03-31,NL,Marketplace,Gooseneck Kettle 1L,Equipment,1,49.00,0.00
+BL-2025-001476,2025-03-31,NL,Marketplace,V60 Dripper Ceramic,Equipment,1,27.00,0.00
+BL-2025-001476,2025-03-31,NL,Marketplace,colombia huila 250g,Coffee Beans,2,11.00,0.00
+BL-2025-001493,2025-03-31,netherlands,Marketplace,V60 DRIPPER CERAMIC,Equipment,1,27.00,0.00
